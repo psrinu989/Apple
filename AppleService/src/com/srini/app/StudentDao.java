@@ -5,7 +5,7 @@ public class StudentDao {
 	private String sname;
 	private int smarks;
 
-
+	private int cid;
 	
 	public int getSiddd() {
 		return siddd;
