@@ -1,9 +1,19 @@
 package com.srini.app;
 
 public class StudentDao {
-	private int side;
+	private int siddd;
 	private String sname;
 	private int smarks;
+
+
+	
+	public int getSiddd() {
+		return siddd;
+	}
+
+	public void setSidd(int sidd) {
+		this.siddd = siddd;
+	}
 
 	public String getSname() {
 		return sname;
