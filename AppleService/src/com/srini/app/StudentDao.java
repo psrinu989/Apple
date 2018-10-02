@@ -6,6 +6,7 @@ public class StudentDao {
 	private int smarks;
 
 	private int cid;
+	private int sid;
 	
 	public int getSiddd() {
 		return siddd;
